@@ -1,0 +1,34 @@
+{
+  "cutos.jake@gmail.com"    : {
+                                "firstname" : "jake",
+                                "lastname"  : "cutos",
+                                "gender"    : "male",
+                                "birthday"  : {
+                                  "Month"   : "August",
+                                  "Day"     : "19",
+                                  "Year"    : "1988"
+                                }
+                              },
+
+  "berden.berden@gmail.com" : {
+                                "firstname" : "brenan",
+                                "lastname"  : "berden",
+                                "gender"    : "bisexual",
+                                "birthday"  : {
+                                  "Month"   : "February",
+                                  "Day"     : "29",
+                                  "Year"    : "1999"
+                                }
+                              },
+
+  "john.uy@gmail.com"       : {
+                                "firstname" : "john",
+                                "lastname"  : "uy",
+                                "gender"    : "transgender",
+                                "birthday"  : {
+                                  "Month"   : "December",
+                                  "Day"     : "20",
+                                  "Year"    : "1985"
+                                }
+                              }
+}
